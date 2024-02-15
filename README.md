@@ -4,12 +4,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thimashkavinda&label=Profile%20views&color=0e75b6&style=flat" alt="thimashkavinda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thimashkavinda" alt="thimashkavinda" /></a> </p>
+<c>----------------------------------------------------------------------------------------------------------------------------------------------</c>
+<br>
+<br>
+<br>
+<br>
+  My Topic @
+<br>
 
-- 🔭 I’m currently working on **Test**
+- 🔭 I’m currently working on Test
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning Java
 
-- 👯 I’m Undergraduate at NIBM **NIBM**
+- 👯 I’m Undergraduate at NIBM Student
 
 - 🤝 I’m looking for help with **Test**
 
